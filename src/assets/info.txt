@@ -1,0 +1,9 @@
+Color Scheme
+
+Primary: #000000
+Accent: #ffc423
+Text: #3D3D3D
+
+Typography
+Headings & Accent: Poppins
+Text: Open sans
