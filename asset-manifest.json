@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rohithatkar/ecommercerohit/static/css/main.db62923b.css",
+    "main.js": "/rohithatkar/ecommercerohit/static/js/main.fe350717.js",
+    "static/js/453.2d40735f.chunk.js": "/rohithatkar/ecommercerohit/static/js/453.2d40735f.chunk.js",
+    "static/media/header-logo.png": "/rohithatkar/ecommercerohit/static/media/header-logo.05badb1d5b51e3e1a52e.png",
+    "index.html": "/rohithatkar/ecommercerohit/index.html",
+    "main.db62923b.css.map": "/rohithatkar/ecommercerohit/static/css/main.db62923b.css.map",
+    "main.fe350717.js.map": "/rohithatkar/ecommercerohit/static/js/main.fe350717.js.map",
+    "453.2d40735f.chunk.js.map": "/rohithatkar/ecommercerohit/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.fe350717.js"
+  ]
+}
